@@ -1,4 +1,3 @@
-  
 {
   "badges": [
     {
@@ -69,6 +68,14 @@
       "jobTitle": "Super Dog",
       "twitter": "snoopysuperdog",
       "id": "Tab9I7W"
+    },
+    {
+      "firstName": "Santiago",
+      "lastName": "Mejia",
+      "email": "santiagomejiad19@hotmail.com",
+      "jobTitle": "Full Stack Development",
+      "twitter": "ElSanty",
+      "id": "_4aPsOg"
     }
   ]
 }
