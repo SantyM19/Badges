@@ -65,7 +65,7 @@
       "firstName": "Snoopy",
       "lastName": "Kaufman",
       "email": "snoopy@example.com",
-      "jobTitle": "Super Dog",
+      "jobTitle": "Super Dog Hero",
       "twitter": "snoopysuperdog",
       "id": "Tab9I7W"
     },
@@ -76,6 +76,14 @@
       "jobTitle": "Full Stack Development",
       "twitter": "ElSanty",
       "id": "_4aPsOg"
+    },
+    {
+      "firstName": "Erika Lorena",
+      "lastName": "Marin Garzon",
+      "email": "erikamarin0106@gmail.com",
+      "jobTitle": "University Student",
+      "twitter": "ErLoMaGa",
+      "id": "P6FXpYh"
     }
   ]
 }
